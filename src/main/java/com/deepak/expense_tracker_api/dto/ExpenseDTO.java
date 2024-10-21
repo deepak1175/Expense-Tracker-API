@@ -27,4 +27,5 @@ public class ExpenseDTO {
     private CategoryDTO categorydto;
     private UserDTO userDTO;
     private String categoryid;
+    private int id;
 }
